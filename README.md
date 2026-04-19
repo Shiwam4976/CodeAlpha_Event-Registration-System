@@ -34,9 +34,9 @@ npm start  # http://localhost:3000
 | `/api/auth/register` | POST | - | Register |
 | `/api/registrations` | POST/GET/DEL | Yes | Manage reg |
 
-## 🌐 Deploy
-- Backend: Render/Heroku
-- Frontend: Vercel/Netlify
+## 🌐 Live Deployments
+**Backend**: https://event-reg-backend.onrender.com (Deploy: Render → GitHub repo)
+**Frontend**: https://event-registration-ui.vercel.app (Deploy: Vercel → GitHub repo)
 
 ## Repo
 https://github.com/Shiwam4976/CodeAlpha_Event-Registration-System
